@@ -32,11 +32,8 @@ const config = {
     'React Native',
     'MySQL',
     'Git',
-    'Docker',
     'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
     'Bootstrap',
   ],
   experiences: [
