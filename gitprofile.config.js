@@ -14,11 +14,11 @@ const config = {
     linkedin: 'rachmanesa',
     twitter: 'rachmanesa99',
     facebook: '',
-    instagram: '',
+    instagram: 'esareynor',
     dribbble: '',
     behance: '',
     medium: '',
-    dev: 'arifszn',
+    dev: 'esareynor',
     website: 'https://rachmanesa.com/',
     phone: '',
     email: 'esareynor99@gmail.com',
@@ -29,7 +29,7 @@ const config = {
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
+    'React Native',
     'MySQL',
     'Git',
     'Docker',
@@ -41,54 +41,89 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Monstarlab Bangladesh',
-      position: 'Backend Engineer II',
-      from: 'September 2021',
-      to: 'Present',
+      company: 'IMNI.CO.ID',
+      position: 'E-Commerce (Full-Stack Developer)',
+      from: '2017',
+      to: '2017',
+    },{
+      company: 'Research and Develompent Office of East Java Province, Indonesia',
+      position: 'Regional Research Information App (Full-Stack Developer)',
+      from: '2019',
+      to: '2019',
     },
-    {
-      company: 'My Offer 360 Degree',
-      position: 'Web Application Developer',
-      from: 'July 2019',
-      to: 'August 2021',
+    ,{
+      company: 'Rosokku',
+      position: 'Rosokku App (Mobile Developer)',
+      from: '2020',
+      to: '2020',
+    },
+    ,{
+      company: 'CV. Nusantara Beton',
+      position: 'ERP for Production, Marketing, and Inventory (Full-Stack Developer)',
+      from: '2021',
+      to: '2021',
+    },
+    ,{
+      company: 'Wofwooden',
+      position: 'Official E-Commerce (Full-Stack Developer)',
+      from: '2021',
+      to: '2021',
+    },
+    ,{
+      company: 'PT. TATA CIPTA TEKNOLOGI INDONESIA',
+      position: 'E-Government (Full-Stack Developer)',
+      from: '2021',
+      to: '2021',
+    },
+    ,{
+      company: 'Pertamina Training and Consulting',
+      position: 'Event Report App (Full-Stack Developer)',
+      from: '2022',
+      to: '2022',
+    },
+    ,{
+      company: 'WakeUpMakeUp',
+      position: 'Official E-Commerce (Full-Stack Developer)',
+      from: '2022',
+      to: '2022',
+    },
+    ,{
+      company: 'PT. IDE Sehati',
+      position: 'Accountant App (Full-Stack and Mobile Developer)',
+      from: '2022',
+      to: '2022',
     },
   ],
   education: [
     {
-      institution: 'American International University-Bangladesh',
-      degree: 'Bachelor of Science',
-      from: '2015',
-      to: '2019',
+      institution: 'University of Pembangunan Nasional "Veteran", East Java, Indonesia ',
+      degree: 'Bachelor of Computer Science',
+      from: '2017',
+      to: '2022',
     },
     {
-      institution: 'Cantonment College, Jessore',
-      degree: 'Higher Secondary Certificate (HSC)',
-      from: '2012',
-      to: '2014',
-    },
-    {
-      institution: 'Chowgacha Shahadat Pilot High School',
-      degree: 'Secondary School Certificate (SSC)',
-      from: '2007',
-      to: '2012',
+      institution: 'Vocational High School of Pungging, East Java, Indonesia',
+      degree: 'Diploma of Multimedia',
+      from: '2014',
+      to: '2017',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
-  blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn',
-    limit: 3, // How many posts to display. Max is 10.
-  },
+  // blog: {
+  //   source: 'dev', // medium | dev
+  //   username: 'arifszn',
+  //   limit: 3, // How many posts to display. Max is 10.
+  // },
   googleAnalytics: {
     // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-    id: 'G-WLLB5E14M6', // Please remove this and use your own tag id or keep it empty
+    id: '', // Please remove this and use your own tag id or keep it empty
   },
   hotjar: {
-    id: '2617601', //  Please remove this and use your own id or keep it empty
+    id: '', //  Please remove this and use your own id or keep it empty
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'corporate',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
